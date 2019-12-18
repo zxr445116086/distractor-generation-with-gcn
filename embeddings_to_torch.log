@@ -1,0 +1,46 @@
+[2019-06-05 21:55:47,396 INFO] From: data/processed.vocab.pt
+[2019-06-05 21:55:47,396 INFO] 	* source vocab: 50004 words
+[2019-06-05 21:55:47,396 INFO] 	* target vocab: 50004 words
+[2019-06-05 21:59:32,104 INFO] Got 2196007 encryption embeddings from /home/zhouxiaorui/Distractor-Generation-RACE/data/glove/glove.840B.300d.txt
+[2019-06-05 22:03:51,481 INFO] Got 2196007 decryption embeddings from /home/zhouxiaorui/Distractor-Generation-RACE/data/glove/glove.840B.300d.txt
+[2019-06-05 22:03:53,036 INFO] 
+Matching: 
+[2019-06-05 22:03:53,037 INFO] 	* enc: 44022 match, 5982 missing, (88.04%)
+[2019-06-05 22:03:53,037 INFO] 	* dec: 44022 match, 5982 missing, (88.04%)
+[2019-06-05 22:03:53,037 INFO] 
+Filtered embeddings:
+[2019-06-05 22:03:53,037 INFO] 	* enc: torch.Size([50004, 300])
+[2019-06-05 22:03:53,037 INFO] 	* dec: torch.Size([50004, 300])
+[2019-06-05 22:03:53,037 INFO] 
+Saving embedding as:
+	* enc: data/processed.glove.enc.pt
+	* dec: data/processed.glove.dec.pt
+[2019-06-05 22:03:53,124 INFO] 
+Done.
+[2019-09-18 23:20:59,972 INFO] From: data/processed.vocab.pt
+[2019-09-18 23:20:59,972 INFO] 	* source vocab: 50004 words
+[2019-09-18 23:20:59,973 INFO] 	* target vocab: 50004 words
+[2019-09-18 23:24:56,223 INFO] Got 2196007 encryption embeddings from /home/zhouxiaorui/bidaf_only_ques/data/glove/glove.840B.300d.txt
+[2019-09-19 00:02:15,691 INFO] From: data/processed.vocab.pt
+[2019-09-19 00:02:15,696 INFO] 	* source vocab: 50004 words
+[2019-09-19 00:02:15,696 INFO] 	* target vocab: 50004 words
+[2019-09-19 00:06:02,723 INFO] Got 2196007 encryption embeddings from /home/zhouxiaorui/bidaf_only_ques/data/glove/glove.840B.300d.txt
+[2019-09-19 00:10:17,426 INFO] Got 2196007 decryption embeddings from /home/zhouxiaorui/bidaf_only_ques/data/glove/glove.840B.300d.txt
+[2019-09-19 00:10:19,203 INFO] 
+Matching: 
+[2019-09-19 00:10:19,204 INFO] 	* enc: 44803 match, 5201 missing, (89.60%)
+[2019-09-19 00:10:19,204 INFO] 	* dec: 44803 match, 5201 missing, (89.60%)
+[2019-09-19 00:10:19,204 INFO] 
+Filtered embeddings:
+[2019-09-19 00:10:19,221 INFO] 	* enc: torch.Size([50004, 300])
+[2019-09-19 00:10:19,221 INFO] 	* dec: torch.Size([50004, 300])
+[2019-09-19 00:10:19,222 INFO] 
+Saving embedding as:
+	* enc: data/processed.glove.enc.pt
+	* dec: data/processed.glove.dec.pt
+[2019-09-19 00:10:19,328 INFO] 
+Done.
+[2019-09-19 14:15:47,728 INFO] From: data/processed.vocab.pt
+[2019-09-19 14:15:47,729 INFO] 	* source vocab: 50004 words
+[2019-09-19 14:15:47,729 INFO] 	* target vocab: 50004 words
+[2019-09-19 14:19:37,262 INFO] Got 2196007 encryption embeddings from /home/zhouxiaorui/bidaf_only_ques/data/glove/glove.840B.300d.txt

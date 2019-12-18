@@ -1,0 +1,11 @@
+load test file
+load json done
+*=*=*=*=*=*=*=*=*=*= First Distractor *=*=*=*=*=*=*=*=*=*=
+===== MSCOCO Evaluation Script:  =====
+B1: 29.63, B2: 17.24, B3: 12.27, B4: 9.66
+*=*=*=*=*=*=*=*=*=*= Second Distractor *=*=*=*=*=*=*=*=*=*=
+===== MSCOCO Evaluation Script:  =====
+B1: 27.99, B2: 14.57, B3: 9.28, B4: 6.60
+*=*=*=*=*=*=*=*=*=*= Third Distractor *=*=*=*=*=*=*=*=*=*=
+===== MSCOCO Evaluation Script:  =====
+B1: 29.23, B2: 15.01, B3: 9.50, B4: 6.69
